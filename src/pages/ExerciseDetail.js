@@ -1,11 +1,7 @@
-import React from 'react'
+import React from "react";
 
 const ExerciseDetail = () => {
-  return (
-    <div>
-      
-    </div>
-  )
-}
+  return <div></div>;
+};
 
-export default ExerciseDetail
+export default ExerciseDetail;
